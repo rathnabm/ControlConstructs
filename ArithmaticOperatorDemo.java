@@ -12,7 +12,7 @@ System.out.println("Addition of given numbers = " + sum);
 System.out.println("Subtraction of given numbers = " + difference);
 System.out.println("Multiplication of given numbers = " + product);
 System.out.println("Division of given numbers = " + quotient);
-System.out.println("Modulo Division of given numbers = " + remainder);
+System.out.println("Remainder of given numbers = " + remainder);
 }
 }
 
